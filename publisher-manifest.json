@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "144d057595c1ffd9f972d84b",
+  "owner": "xnrpndtpw",
+  "repo": "page-b9653412b62b5073b98a74cd",
+  "title": "小火箭节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b9653412b62b5073b98a74cd",
+      "a": "小火箭节点",
+      "b": "",
+      "entity": "小火箭节点",
+      "brand": "小火箭节点",
+      "separator": "",
+      "path": "index.html",
+      "hash": "12629f33485febc89463d240ca25462f9689dc63434bd0d98520c1cdba32c86e",
+      "content": {
+        "keyword1": "小火箭节点",
+        "keyword2": "",
+        "primary_entity": "小火箭节点",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭节点提供稳定高速VPN加速服务，覆盖基础版、旗舰版、团队版套餐。官方客户端下载入口，机场订阅支持，解锁流媒体与游戏加速。",
+          "AI_DESCRIPTION": "小火箭节点提供稳定高速VPN加速服务，覆盖基础版、旗舰版、团队版套餐。官方客户端下载入口，机场订阅支持，解锁流媒体与游戏加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --bg: #f8f4ed;\n            --text: #2c2c2c;\n            --accent: #2e7d32;\n            --green-light: #4caf50;\n        }\n        * { margin:0; padding:0; box-sizing:border-box; }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            background: var(--bg);\n            color: var(--text);\n            line-height: 1.7;\n            font-size: 16px;\n            padding: 0 16px;\n            max-width: 1280px;\n            margin: 0 auto;\n        }\n        h1 { font-size: 2.2rem; text-align: center; color: var(--accent); margin: 30px 0 20px; }\n        .container { max-width: 1000px; margin: 0 auto; }\n        .intro { background: white; padding: 30px; border-radius: 12px; margin-bottom: 30px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }\n        .intro p { margin-bottom: 16px; }\n        .scenarios { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px,1fr)); gap: 20px; }\n        .scenario-card {\n            background: white;\n            padding: 24px;\n            border-radius: 12px;\n            border: 2px solid #e8f5e9;\n        }\n        .scenario-card h3 { color: var(--accent); margin-bottom: 12px; }\n        .plans {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(300px,1fr));\n            gap: 24px;\n            margin: 40px 0;\n        }\n        .plan-card {\n            background: white;\n            border-radius: 12px;\n            overflow: hidden;\n            box-shadow: 0 4px 15px rgba(46,125,50,0.08);\n            border: 3px solid #e8f5e9;\n        }\n        .plan-card.featured {\n            border-color: var(--accent);\n            transform: scale(1.03);\n            position: relative;\n        }\n        .plan-card.featured::before {\n            content: \"最推荐\";\n            position: absolute;\n            top: 20px;\n            right: 20px;\n            background: var(--accent);\n            color: white;\n            padding: 4px 12px;\n            border-radius: 9999px;\n            font-size: 0.75rem;\n            font-weight: 600;\n        }\n        .plan-header {\n            padding: 20px 24px;\n            text-align: center;\n            color: white;\n        }\n        .plan-header.basic { background: #666; }\n        .plan-header.featured { background: var(--accent); }\n        .plan-header.team { background: #2e7d32; }\n        .plan-name { font-size: 1.35rem; font-weight: 700; }\n        .plan-price { font-size: 2.1rem; font-weight: 700; margin: 8px 0; }\n        .plan-price.annual { font-size: 1rem; color: #eee; }\n        .plan-features {\n            padding: 24px;\n            background: #f9f9f9;\n        }\n        .plan-features ul {\n            list-style: none;\n        }\n        .plan-features li {\n            padding: 8px 0;\n            display: flex;\n            align-items: flex-start;\n            gap: 12px;\n        }\n        .plan-features li:before {\n            content: \"✓\";\n            color: var(--accent);\n            font-weight: bold;\n        }\n        .faq {\n            background: white;\n            border-radius: 12px;\n            padding: 20px;\n            margin-bottom: 20px;\n        }\n        summary {\n            font-weight: 600;\n            cursor: pointer;\n            padding: 12px 0;\n            list-style: none;\n            font-size: 1.1rem;\n        }\n        details { margin-bottom: 12px; }\n        .footer {\n            text-align: center;\n            padding: 40px 20px;\n            color: #666;\n            font-size: 0.9rem;\n        }\n        .download-btn {\n            display: inline-block;\n            background: var(--accent);\n            color: white;\n            padding: 14px 32px;\n            border-radius: 9999px;\n            text-decoration: none;\n            font-weight: 600;\n            margin: 20px 0;\n            box-shadow: 0 4px 12px rgba(46,125,50,0.3);\n        }\n        @media (max-width: 640px) {\n            h1 { font-size: 1.9rem; }\n            .plans { grid-template-columns: 1fr; }\n        }\n    </style>\n\n\n    <main class=\"container\">\n        <h1>小火箭节点</h1>\n        \n        <div class=\"intro\">\n            <p>小火箭节点是专注高速VPN加速与机场订阅的稳定服务提供商。依托优质IPLC线路与全球节点池，为用户带来低延迟、易用性强的网络加速体验。</p>\n            <p>无论家庭娱乐、企业办公还是游戏竞技，我们的小火箭节点都能为您的网络带来显著提速。</p>\n        </div>\n\n        <section class=\"scenarios\">\n            <div class=\"scenario-card\">\n                <h3>家庭娱乐加速</h3>\n                <p>支持4K高清解锁Netflix、Disney+、YouTube等平台，3台设备同时在线，畅享流媒体内容。</p>\n            </div>\n            <div class=\"scenario-card\">\n                <h3>游戏加速</h3>\n                <p>旗舰版IPLC专线优化，降低延迟，完美支持在线竞技与多人游戏。</p>\n            </div>\n            <div class=\"scenario-card\">\n                <h3>企业节点定制</h3>\n                <p>团队版提供VIP高带宽节点，支持企业级路由定制与专属客户经理。</p>\n            </div>\n        </section>\n\n        <section>\n            <h2>快速上手指南</h2>\n            <ol>\n                <li>访问官网下载官方客户端（支持Windows、macOS、iOS、Android）</li>\n                <li>注册账号，激活小火箭节点账户</li>\n                <li>选择对应套餐，连接推荐节点</li>\n                <li>完成连接，即可享受高速加速</li>\n            </ol>\n            <a href=\"#download\" class=\"download-btn\">立即下载客户端</a>\n        </section>\n\n        <section>\n            <h2>套餐对比</h2>\n            <div class=\"plans\">\n                <div class=\"plan-card\">\n                    <div class=\"plan-header basic\">\n                        <div class=\"plan-name\">基础版</div>\n                        <div class=\"plan-price\">¥15/月</div>\n                        <div class=\"plan-price annual\">按年付仅需 ¥150/年</div>\n                    </div>\n                    <div class=\"plan-features\">\n                        <ul>\n                            <li>每月100GB极速流量</li>\n                            <li>支持3台设备同时在线</li>\n                            <li>解锁基础流媒体</li>\n                            <li>普通线路节点池</li>\n                        </ul>\n                    </div>\n                </div>\n\n                <div class=\"plan-card featured\">\n                    <div class=\"plan-header featured\">\n                        <div class=\"plan-name\">旗舰版</div>\n                        <div class=\"plan-price\">¥35/月</div>\n                        <div class=\"plan-price annual\">按年付仅需 ¥350/年</div>\n                    </div>\n                    <div class=\"plan-features\">\n                        <ul>\n                            <li>每月300GB极速流量</li>\n                            <li>支持5台设备同时在线</li>\n                            <li>全节点原生流媒体解锁</li>\n                            <li>IPLC专线游戏加速优化</li>\n                            <li>7x24优先工单支持</li>\n                        </ul>\n                    </div>\n                </div>\n\n                <div class=\"plan-card\">\n                    <div class=\"plan-header team\">\n                        <div class=\"plan-name\">团队版</div>\n                        <div class=\"plan-price\">¥85/月</div>\n                        <div class=\"plan-price annual\">按年付仅需 ¥850/年</div>\n                    </div>\n                    <div class=\"plan-features\">\n                        <ul>\n                            <li>每月1000GB极速流量</li>\n                            <li>支持20台设备同时在线</li>\n                            <li>VIP专属高带宽节点</li>\n                            <li>支持企业定制路由</li>\n                            <li>专属客户经理服务</li>\n                        </ul>\n                    </div>\n                </div>\n            </div>\n        </section>\n\n        <section class=\"faq\">\n            <details>\n                <summary>什么是小火箭节点？</summary>\n                <p>小火箭节点是专注高速VPN加速与机场订阅的服务平台，提供稳定、低延迟的节点连接与流量加速方案。</p>\n            </details>\n            <details>\n                <summary>如何下载客户端？</summary>\n                <p>点击页面下方“立即下载客户端”按钮，选择对应系统下载最新官方版本即可。</p>\n            </details>\n            <details>\n                <summary>小火箭节点支持哪些设备？</summary>\n                <p>基础版与旗舰版支持Windows、macOS、iOS、Android；团队版支持更多企业级设备接入。</p>\n            </details>\n            <details>\n                <summary>小火箭节点支持哪些平台？</summary>\n                <p>支持Netflix、Disney+、YouTube、Amazon Prime等主流流媒体平台解锁。</p>\n            </details>\n            <details>\n                <summary>如何选择套餐？</summary>\n                <p>个人使用推荐基础版或旗舰版；企业或高流量需求选择团队版。</p>\n            </details>\n            <details>\n                <summary>节点质量如何？</summary>\n                <p>所有节点均经过严格测试，IPLC专线保障低延迟，支持7x24在线。</p>\n            </details>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <div class=\"footer\">\n        小火箭节点 | 官网：<a href=\"#\">https://xiaohuojian.com</a><br>\n        机场订阅 · VPN加速 · 客户端下载\n    </div>\n\n",
+          "hash": "fadeb2ac1b55fae156505bacca927267048345a20a1429c7aa9224142b275274",
+          "seo": {
+            "title": "小火箭节点 - 高速VPN加速器 | 机场订阅与客户端下载",
+            "keywords": "小火箭节点, VPN加速, 机场订阅, 客户端下载, VPN节点, 高速加速",
+            "description": "小火箭节点提供稳定高速VPN加速服务，覆盖基础版、旗舰版、团队版套餐。官方客户端下载入口，机场订阅支持，解锁流媒体与游戏加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hxjxsls.cn",
+    "host": "p-aaa6018f72.hxjxsls.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "4dc2a4f3c328a42af98b6c4eb8675d6ac20328ea44c716dbb94a260ddedec76b",
+    "sitemap.xml": "d9ccf32db7c825d5c9a93d6ece3546d52ba398a4e568e824ea46e6da0c97480e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a4e35359f18435eb405f805a6615b9c33f6c16465d5a2bc546b99e8b3e021167",
+    "robots.txt": "21c5fb8e3fb3298da00d0162d3ab91635672ccd346a9c9a43643fd949c109ac7",
+    "2d0655bcffb78cda610c771285d172d3.txt": "baad4186f2a9f3367e3f1691775aedff6d0937f804677f4a3ca9036609bd71aa"
+  },
+  "revision": "2d8ef066886411b4332830953bce7a53c295cf589b966147cc93d9360116d0f8"
+}
